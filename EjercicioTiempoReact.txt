@@ -1,0 +1,12 @@
+EJERCICIO TIEMPO REACT				Last Update: 23-Sept-2020
+=======================
+
+Dado el código fuente que está en:
+
+	https://github.com/bmorelli25/React-Weather-App
+
+1.- Clonarlo en el GitHub del usuario.
+
+2.- Con el usuario developer que tengamos, crear un proyecto llamado "<usuario>-tiemporeact" donde se desplegará dicha app teniendo en cuenta que la versión de NodeJS es la 10. El nombre de todos los recursos debe ser "tiempoatm" y todos los recursos deben tener una etiqueta llamada "ejercicio" con valor "tiemporeact".
+
+3.- Crear una ruta para acceder a la app y comprobar que funciona
